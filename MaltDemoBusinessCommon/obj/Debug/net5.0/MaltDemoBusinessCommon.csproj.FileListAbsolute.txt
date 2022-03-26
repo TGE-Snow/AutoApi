@@ -72,3 +72,17 @@ D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\obj\Debug\net5
 D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.dll
 D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\obj\Debug\net5.0\ref\MaltDemoBusinessCommon.dll
 D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.pdb
+D:\GitHub\AutoApi\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.csprojAssemblyReference.cache
+D:\GitHub\AutoApi\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\AutoApi\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.AssemblyInfoInputs.cache
+D:\GitHub\AutoApi\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.AssemblyInfo.cs
+D:\GitHub\AutoApi\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.csproj.CoreCompileInputs.cache
+D:\GitHub\AutoApi\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.dll
+D:\GitHub\AutoApi\MaltDemoBusinessCommon\obj\Debug\net5.0\ref\MaltDemoBusinessCommon.dll
+D:\GitHub\AutoApi\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.pdb
+D:\GitHub\AutoApi\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.deps.json
+D:\GitHub\AutoApi\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.dll
+D:\GitHub\AutoApi\MaltDemoBusinessCommon\bin\Debug\net5.0\ref\MaltDemoBusinessCommon.dll
+D:\GitHub\AutoApi\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.pdb
+D:\GitHub\AutoApi\MaltDemoBusinessCommon\bin\Debug\net5.0\topsdk-net-core.dll
+D:\GitHub\AutoApi\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.csproj.CopyComplete

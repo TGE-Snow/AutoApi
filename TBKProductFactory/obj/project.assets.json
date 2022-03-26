@@ -7224,11 +7224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\TBKProductFactory\\TBKFactory.csproj",
+      "projectUniqueName": "D:\\GitHub\\AutoApi\\TBKProductFactory\\TBKFactory.csproj",
       "projectName": "TBKFactory",
-      "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\TBKProductFactory\\TBKFactory.csproj",
+      "projectPath": "D:\\GitHub\\AutoApi\\TBKProductFactory\\TBKFactory.csproj",
       "packagesPath": "C:\\Users\\TGE\\.nuget\\packages\\",
-      "outputPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\TBKProductFactory\\obj\\",
+      "outputPath": "D:\\GitHub\\AutoApi\\TBKProductFactory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -7250,11 +7250,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoFactoryCommon\\MaltDemoFactoryCommon.csproj": {
-              "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoFactoryCommon\\MaltDemoFactoryCommon.csproj"
+            "D:\\GitHub\\AutoApi\\MaltDemoFactoryCommon\\MaltDemoFactoryCommon.csproj": {
+              "projectPath": "D:\\GitHub\\AutoApi\\MaltDemoFactoryCommon\\MaltDemoFactoryCommon.csproj"
             },
-            "D:\\新建文件夹 (3)\\新建文件夹 (2)\\TBKProductBusiness\\TBKBusiness.csproj": {
-              "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\TBKProductBusiness\\TBKBusiness.csproj"
+            "D:\\GitHub\\AutoApi\\TBKProductBusiness\\TBKBusiness.csproj": {
+              "projectPath": "D:\\GitHub\\AutoApi\\TBKProductBusiness\\TBKBusiness.csproj"
             }
           }
         }

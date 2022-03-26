@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T5elvsu0VAMzJQUNXPy/dnY5lUx9UyV6wDIvr5Vo1mG1Cuuf0D8UzTu77CnObvs8ncjqTh3I9aEXhUeqPIJL0Q==",
+  "dgSpecHash": "291X2kn6d9xJNYXCydw+uBIrC0844ewv4rfhP8GwPL1xoakUiHTT20YW4YGq9U2F+xBkqF8pawsts35VY/Pnsw==",
   "success": true,
-  "projectFilePath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\TBKProductBusiness\\TBKBusiness.csproj",
+  "projectFilePath": "D:\\GitHub\\AutoApi\\TBKProductBusiness\\TBKBusiness.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TGE\\.nuget\\packages\\aimiyun\\1.0.3\\aimiyun.1.0.3.nupkg.sha512",
     "C:\\Users\\TGE\\.nuget\\packages\\aimiyun.data\\1.0.6\\aimiyun.data.1.0.6.nupkg.sha512",

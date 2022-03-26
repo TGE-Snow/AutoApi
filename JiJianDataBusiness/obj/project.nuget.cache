@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qMfVvS82k/kf27jbzlsRRXAbbIXURGFcgK5DZwlB6yD/i49iTow5Y8Xep0ceZh7vyeTidHdSNAGQ8fhDJiv4rQ==",
+  "dgSpecHash": "ICOPw87bQFSNWpmalWr6WVRQR5wgXnKom3UNXj4TYNczAI6BAleX95eZ5/0ppGgCkozsDKjJvZ9vyxT9RQgLJg==",
   "success": true,
-  "projectFilePath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\JiJianDataBusiness\\JiJianDataBusiness.csproj",
+  "projectFilePath": "D:\\GitHub\\AutoApi\\JiJianDataBusiness\\JiJianDataBusiness.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TGE\\.nuget\\packages\\aimiyun\\1.0.3\\aimiyun.1.0.3.nupkg.sha512",
     "C:\\Users\\TGE\\.nuget\\packages\\aimiyun.data\\1.0.6\\aimiyun.data.1.0.6.nupkg.sha512",

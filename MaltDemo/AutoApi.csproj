@@ -16,6 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CallPhoneFactory\CallPhoneFactory.csproj" />
+    <ProjectReference Include="..\CallPhoneModel\CallPhoneModel.csproj" />
     <ProjectReference Include="..\JiJianDataFactory\JiJianDataFactory.csproj" />
     <ProjectReference Include="..\JiJianDataModel\JiJianDataModel.csproj" />
     <ProjectReference Include="..\MaltDemoFactoryCommon\MaltDemoFactoryCommon.csproj" />

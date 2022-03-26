@@ -3004,6 +3004,7 @@
       "path": "microsoft.win32.primitives/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3234,6 +3235,7 @@
       "path": "runtime.native.system.io.compression/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -3260,6 +3262,7 @@
       "path": "runtime.native.system.security.cryptography/4.0.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -3322,8 +3325,6 @@
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "SSH.NET.2016.1.0.nupkg.sha512",
-        "SSH.NET.nuspec",
         "lib/net35/Renci.SshNet.dll",
         "lib/net35/Renci.SshNet.xml",
         "lib/net40/Renci.SshNet.dll",
@@ -3339,7 +3340,9 @@
         "lib/wp71/Renci.SshNet.dll",
         "lib/wp71/Renci.SshNet.xml",
         "lib/wp8/Renci.SshNet.dll",
-        "lib/wp8/Renci.SshNet.xml"
+        "lib/wp8/Renci.SshNet.xml",
+        "ssh.net.2016.1.0.nupkg.sha512",
+        "ssh.net.nuspec"
       ]
     },
     "SshNet.Security.Cryptography/1.2.0": {
@@ -3535,8 +3538,6 @@
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "System.Collections.Concurrent.4.0.12.nupkg.sha512",
-        "System.Collections.Concurrent.nuspec",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3593,7 +3594,9 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._"
+        "ref/xamarinwatchos10/_._",
+        "system.collections.concurrent.4.0.12.nupkg.sha512",
+        "system.collections.concurrent.nuspec"
       ]
     },
     "System.Configuration.ConfigurationManager/4.4.1": {
@@ -3839,6 +3842,7 @@
       "path": "system.diagnostics.tools/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3936,6 +3940,7 @@
       "path": "system.diagnostics.tracing/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4206,6 +4211,7 @@
       "path": "system.globalization.calendars/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4243,6 +4249,7 @@
       "path": "system.globalization.extensions/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4364,6 +4371,7 @@
       "path": "system.io.compression/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4434,6 +4442,7 @@
       "path": "system.io.compression.zipfile/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4724,6 +4733,7 @@
       "path": "system.net.http/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/Xamarinmac20/_._",
@@ -4847,6 +4857,7 @@
       "path": "system.net.primitives/4.0.11",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4925,6 +4936,7 @@
       "path": "system.net.sockets/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5762,6 +5774,7 @@
       "path": "system.runtime.numerics/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5864,6 +5877,7 @@
       "path": "system.security.cryptography.algorithms/4.2.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5903,6 +5917,7 @@
       "path": "system.security.cryptography.cng/4.2.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/net46/System.Security.Cryptography.Cng.dll",
@@ -5961,6 +5976,7 @@
       "path": "system.security.cryptography.encoding/4.0.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6016,6 +6032,7 @@
       "path": "system.security.cryptography.primitives/4.0.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6085,6 +6102,7 @@
       "path": "system.security.cryptography.x509certificates/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6337,6 +6355,7 @@
       "path": "system.text.encoding.extensions/4.0.11",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6423,6 +6442,7 @@
       "path": "system.text.regularexpressions/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6763,6 +6783,7 @@
       "path": "system.threading.timer/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6838,6 +6859,7 @@
       "path": "system.xml.readerwriter/4.0.11",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6907,6 +6929,7 @@
       "path": "system.xml.xdocument/4.0.11",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7098,11 +7121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj",
+      "projectUniqueName": "D:\\GitHub\\AutoApi\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj",
       "projectName": "MaltDemoModelCommon",
-      "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj",
+      "projectPath": "D:\\GitHub\\AutoApi\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj",
       "packagesPath": "C:\\Users\\TGE\\.nuget\\packages\\",
-      "outputPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoModelCommon\\obj\\",
+      "outputPath": "D:\\GitHub\\AutoApi\\MaltDemoModelCommon\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

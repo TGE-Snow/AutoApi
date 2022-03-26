@@ -36,3 +36,22 @@ D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\obj\Debug\net5.0\J
 D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.dll
 D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\obj\Debug\net5.0\ref\JiJianDataBusiness.dll
 D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.pdb
+D:\GitHub\AutoApi\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.csprojAssemblyReference.cache
+D:\GitHub\AutoApi\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\AutoApi\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.AssemblyInfoInputs.cache
+D:\GitHub\AutoApi\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.AssemblyInfo.cs
+D:\GitHub\AutoApi\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.csproj.CoreCompileInputs.cache
+D:\GitHub\AutoApi\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.dll
+D:\GitHub\AutoApi\JiJianDataBusiness\obj\Debug\net5.0\ref\JiJianDataBusiness.dll
+D:\GitHub\AutoApi\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.pdb
+D:\GitHub\AutoApi\JiJianDataBusiness\bin\Debug\net5.0\JiJianDataBusiness.deps.json
+D:\GitHub\AutoApi\JiJianDataBusiness\bin\Debug\net5.0\JiJianDataBusiness.dll
+D:\GitHub\AutoApi\JiJianDataBusiness\bin\Debug\net5.0\ref\JiJianDataBusiness.dll
+D:\GitHub\AutoApi\JiJianDataBusiness\bin\Debug\net5.0\JiJianDataBusiness.pdb
+D:\GitHub\AutoApi\JiJianDataBusiness\bin\Debug\net5.0\JiJianDataModel.dll
+D:\GitHub\AutoApi\JiJianDataBusiness\bin\Debug\net5.0\MaltDemoBusinessCommon.dll
+D:\GitHub\AutoApi\JiJianDataBusiness\bin\Debug\net5.0\MaltDemoModelCommon.dll
+D:\GitHub\AutoApi\JiJianDataBusiness\bin\Debug\net5.0\JiJianDataModel.pdb
+D:\GitHub\AutoApi\JiJianDataBusiness\bin\Debug\net5.0\MaltDemoBusinessCommon.pdb
+D:\GitHub\AutoApi\JiJianDataBusiness\bin\Debug\net5.0\MaltDemoModelCommon.pdb
+D:\GitHub\AutoApi\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.csproj.CopyComplete

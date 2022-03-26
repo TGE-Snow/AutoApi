@@ -46,3 +46,27 @@ D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductFactory\obj\Debug\net5.0\TB
 D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductFactory\obj\Debug\net5.0\TBKFactory.dll
 D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductFactory\obj\Debug\net5.0\ref\TBKFactory.dll
 D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductFactory\obj\Debug\net5.0\TBKFactory.pdb
+D:\GitHub\AutoApi\TBKProductFactory\bin\Debug\net5.0\TBKFactory.deps.json
+D:\GitHub\AutoApi\TBKProductFactory\bin\Debug\net5.0\TBKFactory.dll
+D:\GitHub\AutoApi\TBKProductFactory\bin\Debug\net5.0\ref\TBKFactory.dll
+D:\GitHub\AutoApi\TBKProductFactory\bin\Debug\net5.0\TBKFactory.pdb
+D:\GitHub\AutoApi\TBKProductFactory\bin\Debug\net5.0\MaltDemoBusinessCommon.dll
+D:\GitHub\AutoApi\TBKProductFactory\bin\Debug\net5.0\MaltDemoFactoryCommon.dll
+D:\GitHub\AutoApi\TBKProductFactory\bin\Debug\net5.0\MaltDemoModelCommon.dll
+D:\GitHub\AutoApi\TBKProductFactory\bin\Debug\net5.0\TBKBusiness.dll
+D:\GitHub\AutoApi\TBKProductFactory\bin\Debug\net5.0\TBKModel.dll
+D:\GitHub\AutoApi\TBKProductFactory\bin\Debug\net5.0\topsdk-net-core.dll
+D:\GitHub\AutoApi\TBKProductFactory\bin\Debug\net5.0\MaltDemoFactoryCommon.pdb
+D:\GitHub\AutoApi\TBKProductFactory\bin\Debug\net5.0\TBKBusiness.pdb
+D:\GitHub\AutoApi\TBKProductFactory\bin\Debug\net5.0\MaltDemoBusinessCommon.pdb
+D:\GitHub\AutoApi\TBKProductFactory\bin\Debug\net5.0\MaltDemoModelCommon.pdb
+D:\GitHub\AutoApi\TBKProductFactory\bin\Debug\net5.0\TBKModel.pdb
+D:\GitHub\AutoApi\TBKProductFactory\obj\Debug\net5.0\TBKFactory.csprojAssemblyReference.cache
+D:\GitHub\AutoApi\TBKProductFactory\obj\Debug\net5.0\TBKFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\AutoApi\TBKProductFactory\obj\Debug\net5.0\TBKFactory.AssemblyInfoInputs.cache
+D:\GitHub\AutoApi\TBKProductFactory\obj\Debug\net5.0\TBKFactory.AssemblyInfo.cs
+D:\GitHub\AutoApi\TBKProductFactory\obj\Debug\net5.0\TBKFactory.csproj.CoreCompileInputs.cache
+D:\GitHub\AutoApi\TBKProductFactory\obj\Debug\net5.0\TBKFactory.csproj.CopyComplete
+D:\GitHub\AutoApi\TBKProductFactory\obj\Debug\net5.0\TBKFactory.dll
+D:\GitHub\AutoApi\TBKProductFactory\obj\Debug\net5.0\ref\TBKFactory.dll
+D:\GitHub\AutoApi\TBKProductFactory\obj\Debug\net5.0\TBKFactory.pdb

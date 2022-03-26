@@ -68,3 +68,14 @@ D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryCommon\obj\Debug\net5.
 D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryCommon\obj\Debug\net5.0\MaltDemoFactoryCommon.dll
 D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryCommon\obj\Debug\net5.0\ref\MaltDemoFactoryCommon.dll
 D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryCommon\obj\Debug\net5.0\MaltDemoFactoryCommon.pdb
+D:\GitHub\AutoApi\MaltDemoFactoryCommon\obj\Debug\net5.0\MaltDemoFactoryCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\AutoApi\MaltDemoFactoryCommon\obj\Debug\net5.0\MaltDemoFactoryCommon.AssemblyInfoInputs.cache
+D:\GitHub\AutoApi\MaltDemoFactoryCommon\obj\Debug\net5.0\MaltDemoFactoryCommon.AssemblyInfo.cs
+D:\GitHub\AutoApi\MaltDemoFactoryCommon\obj\Debug\net5.0\MaltDemoFactoryCommon.csproj.CoreCompileInputs.cache
+D:\GitHub\AutoApi\MaltDemoFactoryCommon\obj\Debug\net5.0\MaltDemoFactoryCommon.dll
+D:\GitHub\AutoApi\MaltDemoFactoryCommon\obj\Debug\net5.0\ref\MaltDemoFactoryCommon.dll
+D:\GitHub\AutoApi\MaltDemoFactoryCommon\obj\Debug\net5.0\MaltDemoFactoryCommon.pdb
+D:\GitHub\AutoApi\MaltDemoFactoryCommon\bin\Debug\net5.0\MaltDemoFactoryCommon.deps.json
+D:\GitHub\AutoApi\MaltDemoFactoryCommon\bin\Debug\net5.0\MaltDemoFactoryCommon.dll
+D:\GitHub\AutoApi\MaltDemoFactoryCommon\bin\Debug\net5.0\ref\MaltDemoFactoryCommon.dll
+D:\GitHub\AutoApi\MaltDemoFactoryCommon\bin\Debug\net5.0\MaltDemoFactoryCommon.pdb

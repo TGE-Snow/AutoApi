@@ -7150,11 +7150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\TBKProductModel\\TBKModel.csproj",
+      "projectUniqueName": "D:\\GitHub\\AutoApi\\TBKProductModel\\TBKModel.csproj",
       "projectName": "TBKModel",
-      "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\TBKProductModel\\TBKModel.csproj",
+      "projectPath": "D:\\GitHub\\AutoApi\\TBKProductModel\\TBKModel.csproj",
       "packagesPath": "C:\\Users\\TGE\\.nuget\\packages\\",
-      "outputPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\TBKProductModel\\obj\\",
+      "outputPath": "D:\\GitHub\\AutoApi\\TBKProductModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -7176,8 +7176,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj": {
-              "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj"
+            "D:\\GitHub\\AutoApi\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj": {
+              "projectPath": "D:\\GitHub\\AutoApi\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj"
             }
           }
         }

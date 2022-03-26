@@ -38,3 +38,23 @@ D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\obj\Debug\net5.0\T
 D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\obj\Debug\net5.0\TBKBusiness.dll
 D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\obj\Debug\net5.0\ref\TBKBusiness.dll
 D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\obj\Debug\net5.0\TBKBusiness.pdb
+D:\GitHub\AutoApi\TBKProductBusiness\obj\Debug\net5.0\TBKBusiness.csprojAssemblyReference.cache
+D:\GitHub\AutoApi\TBKProductBusiness\obj\Debug\net5.0\TBKBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\AutoApi\TBKProductBusiness\obj\Debug\net5.0\TBKBusiness.AssemblyInfoInputs.cache
+D:\GitHub\AutoApi\TBKProductBusiness\obj\Debug\net5.0\TBKBusiness.AssemblyInfo.cs
+D:\GitHub\AutoApi\TBKProductBusiness\obj\Debug\net5.0\TBKBusiness.csproj.CoreCompileInputs.cache
+D:\GitHub\AutoApi\TBKProductBusiness\obj\Debug\net5.0\TBKBusiness.dll
+D:\GitHub\AutoApi\TBKProductBusiness\obj\Debug\net5.0\ref\TBKBusiness.dll
+D:\GitHub\AutoApi\TBKProductBusiness\obj\Debug\net5.0\TBKBusiness.pdb
+D:\GitHub\AutoApi\TBKProductBusiness\bin\Debug\net5.0\TBKBusiness.deps.json
+D:\GitHub\AutoApi\TBKProductBusiness\bin\Debug\net5.0\TBKBusiness.dll
+D:\GitHub\AutoApi\TBKProductBusiness\bin\Debug\net5.0\ref\TBKBusiness.dll
+D:\GitHub\AutoApi\TBKProductBusiness\bin\Debug\net5.0\TBKBusiness.pdb
+D:\GitHub\AutoApi\TBKProductBusiness\bin\Debug\net5.0\MaltDemoBusinessCommon.dll
+D:\GitHub\AutoApi\TBKProductBusiness\bin\Debug\net5.0\MaltDemoModelCommon.dll
+D:\GitHub\AutoApi\TBKProductBusiness\bin\Debug\net5.0\TBKModel.dll
+D:\GitHub\AutoApi\TBKProductBusiness\bin\Debug\net5.0\topsdk-net-core.dll
+D:\GitHub\AutoApi\TBKProductBusiness\bin\Debug\net5.0\MaltDemoBusinessCommon.pdb
+D:\GitHub\AutoApi\TBKProductBusiness\bin\Debug\net5.0\TBKModel.pdb
+D:\GitHub\AutoApi\TBKProductBusiness\bin\Debug\net5.0\MaltDemoModelCommon.pdb
+D:\GitHub\AutoApi\TBKProductBusiness\obj\Debug\net5.0\TBKBusiness.csproj.CopyComplete

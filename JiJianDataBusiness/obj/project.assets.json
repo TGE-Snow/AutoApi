@@ -7187,11 +7187,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\JiJianDataBusiness\\JiJianDataBusiness.csproj",
+      "projectUniqueName": "D:\\GitHub\\AutoApi\\JiJianDataBusiness\\JiJianDataBusiness.csproj",
       "projectName": "JiJianDataBusiness",
-      "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\JiJianDataBusiness\\JiJianDataBusiness.csproj",
+      "projectPath": "D:\\GitHub\\AutoApi\\JiJianDataBusiness\\JiJianDataBusiness.csproj",
       "packagesPath": "C:\\Users\\TGE\\.nuget\\packages\\",
-      "outputPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\JiJianDataBusiness\\obj\\",
+      "outputPath": "D:\\GitHub\\AutoApi\\JiJianDataBusiness\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -7213,11 +7213,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\新建文件夹 (3)\\新建文件夹 (2)\\JiJianDataModel\\JiJianDataModel.csproj": {
-              "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\JiJianDataModel\\JiJianDataModel.csproj"
+            "D:\\GitHub\\AutoApi\\JiJianDataModel\\JiJianDataModel.csproj": {
+              "projectPath": "D:\\GitHub\\AutoApi\\JiJianDataModel\\JiJianDataModel.csproj"
             },
-            "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj": {
-              "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj"
+            "D:\\GitHub\\AutoApi\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj": {
+              "projectPath": "D:\\GitHub\\AutoApi\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj"
             }
           }
         }

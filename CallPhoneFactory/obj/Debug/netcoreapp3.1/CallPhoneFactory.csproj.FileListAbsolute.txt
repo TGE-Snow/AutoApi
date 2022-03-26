@@ -1,0 +1,9 @@
+D:\GitHub\AutoApi\CallPhoneFactory\bin\Debug\netcoreapp3.1\CallPhoneFactory.deps.json
+D:\GitHub\AutoApi\CallPhoneFactory\bin\Debug\netcoreapp3.1\CallPhoneFactory.dll
+D:\GitHub\AutoApi\CallPhoneFactory\bin\Debug\netcoreapp3.1\CallPhoneFactory.pdb
+D:\GitHub\AutoApi\CallPhoneFactory\obj\Debug\netcoreapp3.1\CallPhoneFactory.csprojAssemblyReference.cache
+D:\GitHub\AutoApi\CallPhoneFactory\obj\Debug\netcoreapp3.1\CallPhoneFactory.AssemblyInfoInputs.cache
+D:\GitHub\AutoApi\CallPhoneFactory\obj\Debug\netcoreapp3.1\CallPhoneFactory.AssemblyInfo.cs
+D:\GitHub\AutoApi\CallPhoneFactory\obj\Debug\netcoreapp3.1\CallPhoneFactory.csproj.CoreCompileInputs.cache
+D:\GitHub\AutoApi\CallPhoneFactory\obj\Debug\netcoreapp3.1\CallPhoneFactory.dll
+D:\GitHub\AutoApi\CallPhoneFactory\obj\Debug\netcoreapp3.1\CallPhoneFactory.pdb

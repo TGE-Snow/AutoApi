@@ -2370,6 +2370,47 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
+      "CallPhoneBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "CallPhoneModel": "1.0.0",
+          "MaltDemoBusinessCommon": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CallPhoneBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CallPhoneBusiness.dll": {}
+        }
+      },
+      "CallPhoneFactory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "CallPhoneBusiness": "1.0.0",
+          "MaltDemoFactoryCommon": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CallPhoneFactory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CallPhoneFactory.dll": {}
+        }
+      },
+      "CallPhoneModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "MaltDemoModelCommon": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CallPhoneModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CallPhoneModel.dll": {}
+        }
+      },
       "JiJianDataBusiness/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -3514,6 +3555,7 @@
       "path": "microsoft.win32.primitives/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3765,6 +3807,7 @@
       "path": "runtime.native.system.io.compression/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -3791,6 +3834,7 @@
       "path": "runtime.native.system.security.cryptography/4.0.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -3853,8 +3897,6 @@
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "SSH.NET.2016.1.0.nupkg.sha512",
-        "SSH.NET.nuspec",
         "lib/net35/Renci.SshNet.dll",
         "lib/net35/Renci.SshNet.xml",
         "lib/net40/Renci.SshNet.dll",
@@ -3870,7 +3912,9 @@
         "lib/wp71/Renci.SshNet.dll",
         "lib/wp71/Renci.SshNet.xml",
         "lib/wp8/Renci.SshNet.dll",
-        "lib/wp8/Renci.SshNet.xml"
+        "lib/wp8/Renci.SshNet.xml",
+        "ssh.net.2016.1.0.nupkg.sha512",
+        "ssh.net.nuspec"
       ]
     },
     "SshNet.Security.Cryptography/1.2.0": {
@@ -4129,8 +4173,6 @@
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "System.Collections.Concurrent.4.0.12.nupkg.sha512",
-        "System.Collections.Concurrent.nuspec",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4187,7 +4229,9 @@
         "ref/xamarinios10/_._",
         "ref/xamarinmac20/_._",
         "ref/xamarintvos10/_._",
-        "ref/xamarinwatchos10/_._"
+        "ref/xamarinwatchos10/_._",
+        "system.collections.concurrent.4.0.12.nupkg.sha512",
+        "system.collections.concurrent.nuspec"
       ]
     },
     "System.Configuration.ConfigurationManager/4.4.1": {
@@ -4433,6 +4477,7 @@
       "path": "system.diagnostics.tools/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4530,6 +4575,7 @@
       "path": "system.diagnostics.tracing/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4800,6 +4846,7 @@
       "path": "system.globalization.calendars/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4837,6 +4884,7 @@
       "path": "system.globalization.extensions/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -4975,6 +5023,7 @@
       "path": "system.io.compression/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5045,6 +5094,7 @@
       "path": "system.io.compression.zipfile/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5335,6 +5385,7 @@
       "path": "system.net.http/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/Xamarinmac20/_._",
@@ -5458,6 +5509,7 @@
       "path": "system.net.primitives/4.0.11",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5536,6 +5588,7 @@
       "path": "system.net.sockets/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6373,6 +6426,7 @@
       "path": "system.runtime.numerics/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6475,6 +6529,7 @@
       "path": "system.security.cryptography.algorithms/4.2.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6608,6 +6663,7 @@
       "path": "system.security.cryptography.encoding/4.0.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6663,6 +6719,7 @@
       "path": "system.security.cryptography.primitives/4.0.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6732,6 +6789,7 @@
       "path": "system.security.cryptography.x509certificates/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -6984,6 +7042,7 @@
       "path": "system.text.encoding.extensions/4.0.11",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7070,6 +7129,7 @@
       "path": "system.text.regularexpressions/4.1.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7410,6 +7470,7 @@
       "path": "system.threading.timer/4.0.1",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7485,6 +7546,7 @@
       "path": "system.xml.readerwriter/4.0.11",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7554,6 +7616,7 @@
       "path": "system.xml.xdocument/4.0.11",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -7732,6 +7795,21 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
+    "CallPhoneBusiness/1.0.0": {
+      "type": "project",
+      "path": "../CallPhoneBusiness/CallPhoneBusiness.csproj",
+      "msbuildProject": "../CallPhoneBusiness/CallPhoneBusiness.csproj"
+    },
+    "CallPhoneFactory/1.0.0": {
+      "type": "project",
+      "path": "../CallPhoneFactory/CallPhoneFactory.csproj",
+      "msbuildProject": "../CallPhoneFactory/CallPhoneFactory.csproj"
+    },
+    "CallPhoneModel/1.0.0": {
+      "type": "project",
+      "path": "../CallPhoneModel/CallPhoneModel.csproj",
+      "msbuildProject": "../CallPhoneModel/CallPhoneModel.csproj"
+    },
     "JiJianDataBusiness/1.0.0": {
       "type": "project",
       "path": "../JiJianDataBusiness/JiJianDataBusiness.csproj",
@@ -7780,6 +7858,8 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "CallPhoneFactory >= 1.0.0",
+      "CallPhoneModel >= 1.0.0",
       "JiJianDataFactory >= 1.0.0",
       "JiJianDataModel >= 1.0.0",
       "Malt.Core >= 2.0.5",
@@ -7801,11 +7881,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemo\\MaltDemo.csproj",
-      "projectName": "MaltDemo",
-      "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemo\\MaltDemo.csproj",
+      "projectUniqueName": "D:\\GitHub\\AutoApi\\MaltDemo\\AutoApi.csproj",
+      "projectName": "AutoApi",
+      "projectPath": "D:\\GitHub\\AutoApi\\MaltDemo\\AutoApi.csproj",
       "packagesPath": "C:\\Users\\TGE\\.nuget\\packages\\",
-      "outputPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemo\\obj\\",
+      "outputPath": "D:\\GitHub\\AutoApi\\MaltDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -7827,23 +7907,29 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\新建文件夹 (3)\\新建文件夹 (2)\\JiJianDataFactory\\JiJianDataFactory.csproj": {
-              "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\JiJianDataFactory\\JiJianDataFactory.csproj"
+            "D:\\GitHub\\AutoApi\\CallPhoneFactory\\CallPhoneFactory.csproj": {
+              "projectPath": "D:\\GitHub\\AutoApi\\CallPhoneFactory\\CallPhoneFactory.csproj"
             },
-            "D:\\新建文件夹 (3)\\新建文件夹 (2)\\JiJianDataModel\\JiJianDataModel.csproj": {
-              "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\JiJianDataModel\\JiJianDataModel.csproj"
+            "D:\\GitHub\\AutoApi\\CallPhoneModel\\CallPhoneModel.csproj": {
+              "projectPath": "D:\\GitHub\\AutoApi\\CallPhoneModel\\CallPhoneModel.csproj"
             },
-            "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoFactoryCommon\\MaltDemoFactoryCommon.csproj": {
-              "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoFactoryCommon\\MaltDemoFactoryCommon.csproj"
+            "D:\\GitHub\\AutoApi\\JiJianDataFactory\\JiJianDataFactory.csproj": {
+              "projectPath": "D:\\GitHub\\AutoApi\\JiJianDataFactory\\JiJianDataFactory.csproj"
             },
-            "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj": {
-              "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj"
+            "D:\\GitHub\\AutoApi\\JiJianDataModel\\JiJianDataModel.csproj": {
+              "projectPath": "D:\\GitHub\\AutoApi\\JiJianDataModel\\JiJianDataModel.csproj"
             },
-            "D:\\新建文件夹 (3)\\新建文件夹 (2)\\TBKProductFactory\\TBKFactory.csproj": {
-              "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\TBKProductFactory\\TBKFactory.csproj"
+            "D:\\GitHub\\AutoApi\\MaltDemoFactoryCommon\\MaltDemoFactoryCommon.csproj": {
+              "projectPath": "D:\\GitHub\\AutoApi\\MaltDemoFactoryCommon\\MaltDemoFactoryCommon.csproj"
             },
-            "D:\\新建文件夹 (3)\\新建文件夹 (2)\\TBKProductModel\\TBKModel.csproj": {
-              "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\TBKProductModel\\TBKModel.csproj"
+            "D:\\GitHub\\AutoApi\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj": {
+              "projectPath": "D:\\GitHub\\AutoApi\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj"
+            },
+            "D:\\GitHub\\AutoApi\\TBKProductFactory\\TBKFactory.csproj": {
+              "projectPath": "D:\\GitHub\\AutoApi\\TBKProductFactory\\TBKFactory.csproj"
+            },
+            "D:\\GitHub\\AutoApi\\TBKProductModel\\TBKModel.csproj": {
+              "projectPath": "D:\\GitHub\\AutoApi\\TBKProductModel\\TBKModel.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m992NMSEnPjKDfLGquoyDbczYJn7fPs32SjhtUY58/O8hooHJy25dv/GG73rMrv0bxlU15paqd1NYVdy7UchsQ==",
+  "dgSpecHash": "z6wfvczavQgjA+SYGtulp1tipauINqmWy5I+EOKoM6oz/muD6LuRRmKs5AY/MNYvHvNyXDV4uBk+jQyX26Gsvg==",
   "success": true,
-  "projectFilePath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj",
+  "projectFilePath": "D:\\GitHub\\AutoApi\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TGE\\.nuget\\packages\\aimiyun\\1.0.3\\aimiyun.1.0.3.nupkg.sha512",
     "C:\\Users\\TGE\\.nuget\\packages\\aimiyun.data\\1.0.6\\aimiyun.data.1.0.6.nupkg.sha512",

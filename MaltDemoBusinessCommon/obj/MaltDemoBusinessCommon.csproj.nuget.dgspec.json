@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj": {}
+    "D:\\GitHub\\AutoApi\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj": {}
   },
   "projects": {
-    "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj": {
+    "D:\\GitHub\\AutoApi\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj",
+        "projectUniqueName": "D:\\GitHub\\AutoApi\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj",
         "projectName": "MaltDemoBusinessCommon",
-        "projectPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj",
+        "projectPath": "D:\\GitHub\\AutoApi\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj",
         "packagesPath": "C:\\Users\\TGE\\.nuget\\packages\\",
-        "outputPath": "D:\\新建文件夹 (3)\\新建文件夹 (2)\\MaltDemoBusinessCommon\\obj\\",
+        "outputPath": "D:\\GitHub\\AutoApi\\MaltDemoBusinessCommon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -61,3 +61,17 @@ D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoModelCommon\obj\Debug\net5.0\
 D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoModelCommon\obj\Debug\net5.0\MaltDemoModelCommon.dll
 D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoModelCommon\obj\Debug\net5.0\ref\MaltDemoModelCommon.dll
 D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoModelCommon\obj\Debug\net5.0\MaltDemoModelCommon.pdb
+D:\GitHub\AutoApi\MaltDemoModelCommon\bin\Debug\net5.0\MaltDemoModelCommon.deps.json
+D:\GitHub\AutoApi\MaltDemoModelCommon\bin\Debug\net5.0\MaltDemoModelCommon.dll
+D:\GitHub\AutoApi\MaltDemoModelCommon\bin\Debug\net5.0\ref\MaltDemoModelCommon.dll
+D:\GitHub\AutoApi\MaltDemoModelCommon\bin\Debug\net5.0\MaltDemoModelCommon.pdb
+D:\GitHub\AutoApi\MaltDemoModelCommon\bin\Debug\net5.0\topsdk-net-core.dll
+D:\GitHub\AutoApi\MaltDemoModelCommon\obj\Debug\net5.0\MaltDemoModelCommon.csprojAssemblyReference.cache
+D:\GitHub\AutoApi\MaltDemoModelCommon\obj\Debug\net5.0\MaltDemoModelCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\AutoApi\MaltDemoModelCommon\obj\Debug\net5.0\MaltDemoModelCommon.AssemblyInfoInputs.cache
+D:\GitHub\AutoApi\MaltDemoModelCommon\obj\Debug\net5.0\MaltDemoModelCommon.AssemblyInfo.cs
+D:\GitHub\AutoApi\MaltDemoModelCommon\obj\Debug\net5.0\MaltDemoModelCommon.csproj.CoreCompileInputs.cache
+D:\GitHub\AutoApi\MaltDemoModelCommon\obj\Debug\net5.0\MaltDemoModelCommon.csproj.CopyComplete
+D:\GitHub\AutoApi\MaltDemoModelCommon\obj\Debug\net5.0\MaltDemoModelCommon.dll
+D:\GitHub\AutoApi\MaltDemoModelCommon\obj\Debug\net5.0\ref\MaltDemoModelCommon.dll
+D:\GitHub\AutoApi\MaltDemoModelCommon\obj\Debug\net5.0\MaltDemoModelCommon.pdb

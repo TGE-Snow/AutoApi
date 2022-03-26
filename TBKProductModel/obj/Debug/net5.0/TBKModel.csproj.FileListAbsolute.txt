@@ -30,3 +30,19 @@ D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductModel\obj\Debug\net5.0\TBKM
 D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductModel\obj\Debug\net5.0\TBKModel.dll
 D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductModel\obj\Debug\net5.0\ref\TBKModel.dll
 D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductModel\obj\Debug\net5.0\TBKModel.pdb
+D:\GitHub\AutoApi\TBKProductModel\bin\Debug\net5.0\TBKModel.deps.json
+D:\GitHub\AutoApi\TBKProductModel\bin\Debug\net5.0\TBKModel.dll
+D:\GitHub\AutoApi\TBKProductModel\bin\Debug\net5.0\ref\TBKModel.dll
+D:\GitHub\AutoApi\TBKProductModel\bin\Debug\net5.0\TBKModel.pdb
+D:\GitHub\AutoApi\TBKProductModel\bin\Debug\net5.0\MaltDemoModelCommon.dll
+D:\GitHub\AutoApi\TBKProductModel\bin\Debug\net5.0\topsdk-net-core.dll
+D:\GitHub\AutoApi\TBKProductModel\bin\Debug\net5.0\MaltDemoModelCommon.pdb
+D:\GitHub\AutoApi\TBKProductModel\obj\Debug\net5.0\TBKModel.csprojAssemblyReference.cache
+D:\GitHub\AutoApi\TBKProductModel\obj\Debug\net5.0\TBKModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\AutoApi\TBKProductModel\obj\Debug\net5.0\TBKModel.AssemblyInfoInputs.cache
+D:\GitHub\AutoApi\TBKProductModel\obj\Debug\net5.0\TBKModel.AssemblyInfo.cs
+D:\GitHub\AutoApi\TBKProductModel\obj\Debug\net5.0\TBKModel.csproj.CoreCompileInputs.cache
+D:\GitHub\AutoApi\TBKProductModel\obj\Debug\net5.0\TBKModel.csproj.CopyComplete
+D:\GitHub\AutoApi\TBKProductModel\obj\Debug\net5.0\TBKModel.dll
+D:\GitHub\AutoApi\TBKProductModel\obj\Debug\net5.0\ref\TBKModel.dll
+D:\GitHub\AutoApi\TBKProductModel\obj\Debug\net5.0\TBKModel.pdb
