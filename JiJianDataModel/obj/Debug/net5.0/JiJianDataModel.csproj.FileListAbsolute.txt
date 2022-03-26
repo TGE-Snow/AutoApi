@@ -1,0 +1,30 @@
+D:\新建文件夹 (3)\MaltDemo\JiJianDataModel\bin\Debug\net5.0\JiJianDataModel.deps.json
+D:\新建文件夹 (3)\MaltDemo\JiJianDataModel\bin\Debug\net5.0\JiJianDataModel.dll
+D:\新建文件夹 (3)\MaltDemo\JiJianDataModel\bin\Debug\net5.0\ref\JiJianDataModel.dll
+D:\新建文件夹 (3)\MaltDemo\JiJianDataModel\bin\Debug\net5.0\JiJianDataModel.pdb
+D:\新建文件夹 (3)\MaltDemo\JiJianDataModel\bin\Debug\net5.0\MaltDemoModelCommon.dll
+D:\新建文件夹 (3)\MaltDemo\JiJianDataModel\bin\Debug\net5.0\MaltDemoModelCommon.pdb
+D:\新建文件夹 (3)\MaltDemo\JiJianDataModel\obj\Debug\net5.0\JiJianDataModel.csprojAssemblyReference.cache
+D:\新建文件夹 (3)\MaltDemo\JiJianDataModel\obj\Debug\net5.0\JiJianDataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹 (3)\MaltDemo\JiJianDataModel\obj\Debug\net5.0\JiJianDataModel.AssemblyInfoInputs.cache
+D:\新建文件夹 (3)\MaltDemo\JiJianDataModel\obj\Debug\net5.0\JiJianDataModel.AssemblyInfo.cs
+D:\新建文件夹 (3)\MaltDemo\JiJianDataModel\obj\Debug\net5.0\JiJianDataModel.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (3)\MaltDemo\JiJianDataModel\obj\Debug\net5.0\JiJianDataModel.csproj.CopyComplete
+D:\新建文件夹 (3)\MaltDemo\JiJianDataModel\obj\Debug\net5.0\JiJianDataModel.dll
+D:\新建文件夹 (3)\MaltDemo\JiJianDataModel\obj\Debug\net5.0\ref\JiJianDataModel.dll
+D:\新建文件夹 (3)\MaltDemo\JiJianDataModel\obj\Debug\net5.0\JiJianDataModel.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataModel\bin\Debug\net5.0\JiJianDataModel.deps.json
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataModel\bin\Debug\net5.0\JiJianDataModel.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataModel\bin\Debug\net5.0\ref\JiJianDataModel.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataModel\bin\Debug\net5.0\JiJianDataModel.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataModel\bin\Debug\net5.0\MaltDemoModelCommon.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataModel\bin\Debug\net5.0\MaltDemoModelCommon.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataModel\obj\Debug\net5.0\JiJianDataModel.csprojAssemblyReference.cache
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataModel\obj\Debug\net5.0\JiJianDataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataModel\obj\Debug\net5.0\JiJianDataModel.AssemblyInfoInputs.cache
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataModel\obj\Debug\net5.0\JiJianDataModel.AssemblyInfo.cs
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataModel\obj\Debug\net5.0\JiJianDataModel.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataModel\obj\Debug\net5.0\JiJianDataModel.csproj.CopyComplete
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataModel\obj\Debug\net5.0\JiJianDataModel.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataModel\obj\Debug\net5.0\ref\JiJianDataModel.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataModel\obj\Debug\net5.0\JiJianDataModel.pdb

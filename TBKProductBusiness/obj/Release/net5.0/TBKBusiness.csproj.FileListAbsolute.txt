@@ -1,0 +1,40 @@
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\bin\Release\net5.0\TBKBusiness.deps.json
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\bin\Release\net5.0\TBKBusiness.dll
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\bin\Release\net5.0\ref\TBKBusiness.dll
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\bin\Release\net5.0\TBKBusiness.pdb
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\bin\Release\net5.0\MaltDemoBusinessCommon.dll
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\bin\Release\net5.0\MaltDemoModelCommon.dll
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\bin\Release\net5.0\TBKModel.dll
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\bin\Release\net5.0\topsdk-net-core.dll
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\bin\Release\net5.0\MaltDemoBusinessCommon.pdb
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\bin\Release\net5.0\TBKModel.pdb
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\bin\Release\net5.0\MaltDemoModelCommon.pdb
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\obj\Release\net5.0\TBKBusiness.csprojAssemblyReference.cache
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\obj\Release\net5.0\TBKBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\obj\Release\net5.0\TBKBusiness.AssemblyInfoInputs.cache
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\obj\Release\net5.0\TBKBusiness.AssemblyInfo.cs
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\obj\Release\net5.0\TBKBusiness.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\obj\Release\net5.0\TBKBusiness.csproj.CopyComplete
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\obj\Release\net5.0\TBKBusiness.dll
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\obj\Release\net5.0\ref\TBKBusiness.dll
+D:\新建文件夹 (3)\MaltDemo\TBKProductBusiness\obj\Release\net5.0\TBKBusiness.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\bin\Release\net5.0\TBKBusiness.deps.json
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\bin\Release\net5.0\TBKBusiness.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\bin\Release\net5.0\ref\TBKBusiness.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\bin\Release\net5.0\TBKBusiness.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\bin\Release\net5.0\MaltDemoBusinessCommon.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\bin\Release\net5.0\MaltDemoModelCommon.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\bin\Release\net5.0\TBKModel.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\bin\Release\net5.0\topsdk-net-core.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\bin\Release\net5.0\MaltDemoBusinessCommon.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\bin\Release\net5.0\TBKModel.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\bin\Release\net5.0\MaltDemoModelCommon.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\obj\Release\net5.0\TBKBusiness.csprojAssemblyReference.cache
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\obj\Release\net5.0\TBKBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\obj\Release\net5.0\TBKBusiness.AssemblyInfoInputs.cache
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\obj\Release\net5.0\TBKBusiness.AssemblyInfo.cs
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\obj\Release\net5.0\TBKBusiness.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\obj\Release\net5.0\TBKBusiness.csproj.CopyComplete
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\obj\Release\net5.0\TBKBusiness.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\obj\Release\net5.0\ref\TBKBusiness.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\TBKProductBusiness\obj\Release\net5.0\TBKBusiness.pdb

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Malt.Core" Version="2.0.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="topsdk-net-core">
+      <HintPath>..\MaltDemo\bin\Debug\net5.0\topsdk-net-core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

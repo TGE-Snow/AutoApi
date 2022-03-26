@@ -1,0 +1,171 @@
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\appsettings.Development.json
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\appsettings.json
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemo.exe
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemo.deps.json
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemo.runtimeconfig.json
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemo.runtimeconfig.dev.json
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemo.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\ref\MaltDemo.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemo.pdb
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\AiMiYun.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\AiMiYun.Data.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\AiMiYun.Utils.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\BouncyCastle.Crypto.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\ChineseConverter.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Google.Protobuf.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\K4os.Compression.LZ4.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\K4os.Hash.xxHash.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Malt.Core.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Malt.Logger.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.OpenApi.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\MySql.Data.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Ubiety.Dns.Core.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Zstandard.Net.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Oracle.ManagedDataAccess.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Renci.SshNet.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\SshNet.Security.Cryptography.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\System.Data.SqlClient.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemoBusinessCommon.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemoFactoryCommon.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemoModelCommon.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\TableBusiness.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\TableFactory.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\TableModel.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemoFactoryCommon.pdb
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemoModelCommon.pdb
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\TableFactory.pdb
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\TableModel.pdb
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemoBusinessCommon.pdb
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\bin\Release\net5.0\TableBusiness.pdb
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.csprojAssemblyReference.cache
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.AssemblyInfoInputs.cache
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.AssemblyInfo.cs
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.csproj.CoreCompileInputs.cache
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\obj\Release\net5.0\staticwebassets\MaltDemo.StaticWebAssets.Manifest.cache
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\obj\Release\net5.0\staticwebassets\MaltDemo.StaticWebAssets.xml
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\obj\Release\net5.0\scopedcss\bundle\MaltDemo.styles.css
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.RazorTargetAssemblyInfo.cache
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.csproj.CopyComplete
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\obj\Release\net5.0\ref\MaltDemo.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.pdb
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.genruntimeconfig.cache
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\appsettings.Development.json
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\appsettings.json
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemo.exe
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemo.deps.json
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemo.runtimeconfig.json
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemo.runtimeconfig.dev.json
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemo.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\ref\MaltDemo.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemo.pdb
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\AiMiYun.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\AiMiYun.Data.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\AiMiYun.Utils.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\BouncyCastle.Crypto.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\ChineseConverter.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Google.Protobuf.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\K4os.Compression.LZ4.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\K4os.Compression.LZ4.Streams.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\K4os.Hash.xxHash.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Malt.Core.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Malt.Logger.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Microsoft.OpenApi.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\MySql.Data.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Ubiety.Dns.Core.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Zstandard.Net.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Oracle.ManagedDataAccess.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Renci.SshNet.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\SshNet.Security.Cryptography.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\System.Data.SqlClient.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemoBusinessCommon.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemoFactoryCommon.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemoModelCommon.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\TBKBusiness.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\TBKFactory.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\TBKModel.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\topsdk-net-core.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemoFactoryCommon.pdb
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemoModelCommon.pdb
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\TBKFactory.pdb
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\TBKModel.pdb
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\MaltDemoBusinessCommon.pdb
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\TBKBusiness.pdb
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.csprojAssemblyReference.cache
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.AssemblyInfoInputs.cache
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.AssemblyInfo.cs
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.MvcApplicationPartsAssemblyInfo.cs
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\obj\Release\net5.0\staticwebassets\MaltDemo.StaticWebAssets.Manifest.cache
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\obj\Release\net5.0\staticwebassets\MaltDemo.StaticWebAssets.xml
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\obj\Release\net5.0\scopedcss\bundle\MaltDemo.styles.css
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.RazorTargetAssemblyInfo.cache
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.csproj.CopyComplete
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\obj\Release\net5.0\ref\MaltDemo.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.pdb
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\obj\Release\net5.0\MaltDemo.genruntimeconfig.cache
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\JiJianDataBusiness.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\JiJianDataFactory.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\JiJianDataModel.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\JiJianDataFactory.pdb
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\JiJianDataModel.pdb
+D:\新建文件夹 (3)\MaltDemo\MaltDemo\bin\Release\net5.0\JiJianDataBusiness.pdb

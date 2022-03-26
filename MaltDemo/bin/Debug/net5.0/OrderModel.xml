@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OrderModel</name>
+    </assembly>
+    <members>
+        <member name="T:OrderModel.SellOrderModel.SellOrderInput">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:OrderModel.SellOrderModel.SellOrderInput.Name">
+            <summary>
+            订单名称	
+            </summary>
+        </member>
+        <member name="T:OrderModel.SellOrderModel.SellOrderOutput">
+            <summary>
+            销售订单输出值
+            </summary>
+        </member>
+        <member name="P:OrderModel.SellOrderModel.SellOrderOutput.Order">
+            <summary>
+            订单
+            </summary>
+        </member>
+        <member name="T:OrderModel.SellOrderModel.Order">
+            <summary>
+            订单
+            </summary>
+        </member>
+        <member name="P:OrderModel.SellOrderModel.Order.OrderID">
+            <summary>
+            订单ID	
+            </summary>
+        </member>
+        <member name="P:OrderModel.SellOrderModel.Order.Date">
+            <summary>
+            时间
+            </summary>
+        </member>
+        <member name="P:OrderModel.SellOrderModel.Order.Name">
+            <summary>
+            名称
+            </summary>
+        </member>
+        <member name="P:OrderModel.SellOrderModel.Order.Address">
+            <summary>
+            地址
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,38 @@
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\bin\Debug\net5.0\JiJianDataBusiness.deps.json
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\bin\Debug\net5.0\JiJianDataBusiness.dll
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\bin\Debug\net5.0\ref\JiJianDataBusiness.dll
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\bin\Debug\net5.0\JiJianDataBusiness.pdb
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\bin\Debug\net5.0\JiJianDataModel.dll
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\bin\Debug\net5.0\MaltDemoBusinessCommon.dll
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\bin\Debug\net5.0\MaltDemoModelCommon.dll
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\bin\Debug\net5.0\JiJianDataModel.pdb
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\bin\Debug\net5.0\MaltDemoBusinessCommon.pdb
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\bin\Debug\net5.0\MaltDemoModelCommon.pdb
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.csprojAssemblyReference.cache
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.AssemblyInfoInputs.cache
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.AssemblyInfo.cs
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.csproj.CopyComplete
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.dll
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\obj\Debug\net5.0\ref\JiJianDataBusiness.dll
+D:\新建文件夹 (3)\MaltDemo\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\bin\Debug\net5.0\JiJianDataBusiness.deps.json
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\bin\Debug\net5.0\JiJianDataBusiness.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\bin\Debug\net5.0\ref\JiJianDataBusiness.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\bin\Debug\net5.0\JiJianDataBusiness.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\bin\Debug\net5.0\JiJianDataModel.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\bin\Debug\net5.0\MaltDemoBusinessCommon.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\bin\Debug\net5.0\MaltDemoModelCommon.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\bin\Debug\net5.0\JiJianDataModel.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\bin\Debug\net5.0\MaltDemoBusinessCommon.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\bin\Debug\net5.0\MaltDemoModelCommon.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.csprojAssemblyReference.cache
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.AssemblyInfoInputs.cache
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.AssemblyInfo.cs
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.csproj.CopyComplete
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\obj\Debug\net5.0\ref\JiJianDataBusiness.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\JiJianDataBusiness\obj\Debug\net5.0\JiJianDataBusiness.pdb

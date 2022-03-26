@@ -1,0 +1,267 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\新建文件夹 (3)\\MaltDemo\\TBKProductBusiness\\TBKProductBusiness.csproj": {}
+  },
+  "projects": {
+    "D:\\新建文件夹 (3)\\MaltDemo\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\新建文件夹 (3)\\MaltDemo\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj",
+        "projectName": "MaltDemoBusinessCommon",
+        "projectPath": "D:\\新建文件夹 (3)\\MaltDemo\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj",
+        "packagesPath": "C:\\Users\\TGE\\.nuget\\packages\\",
+        "outputPath": "D:\\新建文件夹 (3)\\MaltDemo\\MaltDemoBusinessCommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TGE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.aimiyun.com:8080/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Malt.Core": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\新建文件夹 (3)\\MaltDemo\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\新建文件夹 (3)\\MaltDemo\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj",
+        "projectName": "MaltDemoModelCommon",
+        "projectPath": "D:\\新建文件夹 (3)\\MaltDemo\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj",
+        "packagesPath": "C:\\Users\\TGE\\.nuget\\packages\\",
+        "outputPath": "D:\\新建文件夹 (3)\\MaltDemo\\MaltDemoModelCommon\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TGE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.aimiyun.com:8080/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Malt.Core": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\新建文件夹 (3)\\MaltDemo\\TBKProductBusiness\\TBKProductBusiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\新建文件夹 (3)\\MaltDemo\\TBKProductBusiness\\TBKProductBusiness.csproj",
+        "projectName": "TBKProductBusiness",
+        "projectPath": "D:\\新建文件夹 (3)\\MaltDemo\\TBKProductBusiness\\TBKProductBusiness.csproj",
+        "packagesPath": "C:\\Users\\TGE\\.nuget\\packages\\",
+        "outputPath": "D:\\新建文件夹 (3)\\MaltDemo\\TBKProductBusiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TGE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.aimiyun.com:8080/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\新建文件夹 (3)\\MaltDemo\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj": {
+                "projectPath": "D:\\新建文件夹 (3)\\MaltDemo\\MaltDemoBusinessCommon\\MaltDemoBusinessCommon.csproj"
+              },
+              "D:\\新建文件夹 (3)\\MaltDemo\\TBKProductModel\\TBKProductModel.csproj": {
+                "projectPath": "D:\\新建文件夹 (3)\\MaltDemo\\TBKProductModel\\TBKProductModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\新建文件夹 (3)\\MaltDemo\\TBKProductModel\\TBKProductModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\新建文件夹 (3)\\MaltDemo\\TBKProductModel\\TBKProductModel.csproj",
+        "projectName": "TBKProductModel",
+        "projectPath": "D:\\新建文件夹 (3)\\MaltDemo\\TBKProductModel\\TBKProductModel.csproj",
+        "packagesPath": "C:\\Users\\TGE\\.nuget\\packages\\",
+        "outputPath": "D:\\新建文件夹 (3)\\MaltDemo\\TBKProductModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\TGE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.aimiyun.com:8080/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\新建文件夹 (3)\\MaltDemo\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj": {
+                "projectPath": "D:\\新建文件夹 (3)\\MaltDemo\\MaltDemoModelCommon\\MaltDemoModelCommon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

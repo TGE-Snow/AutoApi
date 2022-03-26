@@ -1,0 +1,90 @@
+D:\新建文件夹\Malt项目\MaltDemo_zah\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.deps.json
+D:\新建文件夹\Malt项目\MaltDemo_zah\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.dll
+D:\新建文件夹\Malt项目\MaltDemo_zah\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\ref\MaltDemoFactoryTestCommon.dll
+D:\新建文件夹\Malt项目\MaltDemo_zah\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.pdb
+D:\新建文件夹\Malt项目\MaltDemo_zah\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoModelCommon.dll
+D:\新建文件夹\Malt项目\MaltDemo_zah\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoModelCommon.pdb
+D:\新建文件夹\Malt项目\MaltDemo_zah\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csprojAssemblyReference.cache
+D:\新建文件夹\Malt项目\MaltDemo_zah\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹\Malt项目\MaltDemo_zah\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.AssemblyInfoInputs.cache
+D:\新建文件夹\Malt项目\MaltDemo_zah\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.AssemblyInfo.cs
+D:\新建文件夹\Malt项目\MaltDemo_zah\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csproj.CoreCompileInputs.cache
+D:\新建文件夹\Malt项目\MaltDemo_zah\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csproj.CopyComplete
+D:\新建文件夹\Malt项目\MaltDemo_zah\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.dll
+D:\新建文件夹\Malt项目\MaltDemo_zah\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\ref\MaltDemoFactoryTestCommon.dll
+D:\新建文件夹\Malt项目\MaltDemo_zah\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.pdb
+C:\Users\AMYKJ01\Desktop\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.deps.json
+C:\Users\AMYKJ01\Desktop\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.dll
+C:\Users\AMYKJ01\Desktop\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\ref\MaltDemoFactoryTestCommon.dll
+C:\Users\AMYKJ01\Desktop\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.pdb
+C:\Users\AMYKJ01\Desktop\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoModelCommon.dll
+C:\Users\AMYKJ01\Desktop\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoModelCommon.pdb
+C:\Users\AMYKJ01\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csprojAssemblyReference.cache
+C:\Users\AMYKJ01\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMYKJ01\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.AssemblyInfoInputs.cache
+C:\Users\AMYKJ01\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.AssemblyInfo.cs
+C:\Users\AMYKJ01\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csproj.CoreCompileInputs.cache
+C:\Users\AMYKJ01\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csproj.CopyComplete
+C:\Users\AMYKJ01\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.dll
+C:\Users\AMYKJ01\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\ref\MaltDemoFactoryTestCommon.dll
+C:\Users\AMYKJ01\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.pdb
+C:\Users\11272\Desktop\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.deps.json
+C:\Users\11272\Desktop\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.dll
+C:\Users\11272\Desktop\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\ref\MaltDemoFactoryTestCommon.dll
+C:\Users\11272\Desktop\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.pdb
+C:\Users\11272\Desktop\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoModelCommon.dll
+C:\Users\11272\Desktop\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoModelCommon.pdb
+C:\Users\11272\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csprojAssemblyReference.cache
+C:\Users\11272\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11272\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.AssemblyInfoInputs.cache
+C:\Users\11272\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.AssemblyInfo.cs
+C:\Users\11272\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csproj.CoreCompileInputs.cache
+C:\Users\11272\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csproj.CopyComplete
+C:\Users\11272\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.dll
+C:\Users\11272\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\ref\MaltDemoFactoryTestCommon.dll
+C:\Users\11272\Desktop\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.pdb
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.deps.json
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\ref\MaltDemoFactoryTestCommon.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.pdb
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoModelCommon.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoModelCommon.pdb
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csprojAssemblyReference.cache
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.AssemblyInfoInputs.cache
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.AssemblyInfo.cs
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csproj.CoreCompileInputs.cache
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csproj.CopyComplete
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\ref\MaltDemoFactoryTestCommon.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.pdb
+D:\新建文件夹 (3)\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.deps.json
+D:\新建文件夹 (3)\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\ref\MaltDemoFactoryTestCommon.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.pdb
+D:\新建文件夹 (3)\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoModelCommon.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoModelCommon.pdb
+D:\新建文件夹 (3)\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csprojAssemblyReference.cache
+D:\新建文件夹 (3)\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹 (3)\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.AssemblyInfoInputs.cache
+D:\新建文件夹 (3)\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.AssemblyInfo.cs
+D:\新建文件夹 (3)\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (3)\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csproj.CopyComplete
+D:\新建文件夹 (3)\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\ref\MaltDemoFactoryTestCommon.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.deps.json
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryTestCommon\bin\Debug\net5.0\ref\MaltDemoFactoryTestCommon.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoFactoryTestCommon.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoModelCommon.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryTestCommon\bin\Debug\net5.0\MaltDemoModelCommon.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csprojAssemblyReference.cache
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.AssemblyInfoInputs.cache
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.AssemblyInfo.cs
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.csproj.CopyComplete
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryTestCommon\obj\Debug\net5.0\ref\MaltDemoFactoryTestCommon.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoFactoryTestCommon\obj\Debug\net5.0\MaltDemoFactoryTestCommon.pdb

@@ -1,0 +1,74 @@
+F:\_项目\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.deps.json
+F:\_项目\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.dll
+F:\_项目\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\ref\MaltDemoBusinessCommon.dll
+F:\_项目\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.pdb
+F:\_项目\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.csprojAssemblyReference.cache
+F:\_项目\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.GeneratedMSBuildEditorConfig.editorconfig
+F:\_项目\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.AssemblyInfoInputs.cache
+F:\_项目\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.AssemblyInfo.cs
+F:\_项目\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.csproj.CoreCompileInputs.cache
+F:\_项目\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.dll
+F:\_项目\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\ref\MaltDemoBusinessCommon.dll
+F:\_项目\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.pdb
+D:\NewCode\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.deps.json
+D:\NewCode\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.dll
+D:\NewCode\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\ref\MaltDemoBusinessCommon.dll
+D:\NewCode\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.pdb
+D:\NewCode\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.csprojAssemblyReference.cache
+D:\NewCode\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\NewCode\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.AssemblyInfoInputs.cache
+D:\NewCode\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.AssemblyInfo.cs
+D:\NewCode\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.csproj.CoreCompileInputs.cache
+D:\NewCode\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.dll
+D:\NewCode\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\ref\MaltDemoBusinessCommon.dll
+D:\NewCode\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.pdb
+C:\Users\11272\Desktop\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.deps.json
+C:\Users\11272\Desktop\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.dll
+C:\Users\11272\Desktop\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\ref\MaltDemoBusinessCommon.dll
+C:\Users\11272\Desktop\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.pdb
+C:\Users\11272\Desktop\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11272\Desktop\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.AssemblyInfoInputs.cache
+C:\Users\11272\Desktop\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.AssemblyInfo.cs
+C:\Users\11272\Desktop\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.csproj.CoreCompileInputs.cache
+C:\Users\11272\Desktop\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.dll
+C:\Users\11272\Desktop\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\ref\MaltDemoBusinessCommon.dll
+C:\Users\11272\Desktop\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.pdb
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.deps.json
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\ref\MaltDemoBusinessCommon.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.pdb
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.csprojAssemblyReference.cache
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.AssemblyInfoInputs.cache
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.AssemblyInfo.cs
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.csproj.CoreCompileInputs.cache
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\ref\MaltDemoBusinessCommon.dll
+C:\Users\long8\Desktop\Bamboo项目企划\前端ui框架\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.pdb
+D:\新建文件夹 (3)\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.deps.json
+D:\新建文件夹 (3)\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\ref\MaltDemoBusinessCommon.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.pdb
+D:\新建文件夹 (3)\MaltDemo\MaltDemoBusinessCommon\bin\Debug\net5.0\topsdk-net-core.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹 (3)\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.AssemblyInfoInputs.cache
+D:\新建文件夹 (3)\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.AssemblyInfo.cs
+D:\新建文件夹 (3)\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (3)\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.csproj.CopyComplete
+D:\新建文件夹 (3)\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\ref\MaltDemoBusinessCommon.dll
+D:\新建文件夹 (3)\MaltDemo\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.deps.json
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\bin\Debug\net5.0\ref\MaltDemoBusinessCommon.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\bin\Debug\net5.0\MaltDemoBusinessCommon.pdb
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\bin\Debug\net5.0\topsdk-net-core.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.csprojAssemblyReference.cache
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.AssemblyInfoInputs.cache
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.AssemblyInfo.cs
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.csproj.CopyComplete
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\obj\Debug\net5.0\ref\MaltDemoBusinessCommon.dll
+D:\新建文件夹 (3)\新建文件夹 (2)\MaltDemoBusinessCommon\obj\Debug\net5.0\MaltDemoBusinessCommon.pdb

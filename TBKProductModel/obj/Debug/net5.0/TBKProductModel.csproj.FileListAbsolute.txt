@@ -1,0 +1,16 @@
+D:\新建文件夹 (3)\MaltDemo\TBKProductModel\bin\Debug\net5.0\TBKProductModel.deps.json
+D:\新建文件夹 (3)\MaltDemo\TBKProductModel\bin\Debug\net5.0\TBKProductModel.dll
+D:\新建文件夹 (3)\MaltDemo\TBKProductModel\bin\Debug\net5.0\ref\TBKProductModel.dll
+D:\新建文件夹 (3)\MaltDemo\TBKProductModel\bin\Debug\net5.0\TBKProductModel.pdb
+D:\新建文件夹 (3)\MaltDemo\TBKProductModel\bin\Debug\net5.0\MaltDemoModelCommon.dll
+D:\新建文件夹 (3)\MaltDemo\TBKProductModel\bin\Debug\net5.0\topsdk-net-core.dll
+D:\新建文件夹 (3)\MaltDemo\TBKProductModel\bin\Debug\net5.0\MaltDemoModelCommon.pdb
+D:\新建文件夹 (3)\MaltDemo\TBKProductModel\obj\Debug\net5.0\TBKProductModel.csprojAssemblyReference.cache
+D:\新建文件夹 (3)\MaltDemo\TBKProductModel\obj\Debug\net5.0\TBKProductModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\新建文件夹 (3)\MaltDemo\TBKProductModel\obj\Debug\net5.0\TBKProductModel.AssemblyInfoInputs.cache
+D:\新建文件夹 (3)\MaltDemo\TBKProductModel\obj\Debug\net5.0\TBKProductModel.AssemblyInfo.cs
+D:\新建文件夹 (3)\MaltDemo\TBKProductModel\obj\Debug\net5.0\TBKProductModel.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (3)\MaltDemo\TBKProductModel\obj\Debug\net5.0\TBKProductModel.csproj.CopyComplete
+D:\新建文件夹 (3)\MaltDemo\TBKProductModel\obj\Debug\net5.0\TBKProductModel.dll
+D:\新建文件夹 (3)\MaltDemo\TBKProductModel\obj\Debug\net5.0\ref\TBKProductModel.dll
+D:\新建文件夹 (3)\MaltDemo\TBKProductModel\obj\Debug\net5.0\TBKProductModel.pdb

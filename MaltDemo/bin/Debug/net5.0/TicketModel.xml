@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TicketModel</name>
+    </assembly>
+    <members>
+        <member name="T:TicketModel.LoginModel.LoginInput">
+            <summary>
+            页面登录接收参数
+            </summary>
+        </member>
+        <member name="P:TicketModel.LoginModel.LoginInput.Account">
+            <summary>
+            账号
+            </summary>
+        </member>
+        <member name="P:TicketModel.LoginModel.LoginInput.Password">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="T:TicketModel.LoginModel.LoginOutput">
+            <summary>
+            登陆输出信息
+            </summary>
+        </member>
+        <member name="P:TicketModel.LoginModel.LoginOutput.Cookie">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>
